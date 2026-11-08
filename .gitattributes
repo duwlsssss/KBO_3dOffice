@@ -1,0 +1,2 @@
+*.glb filter=lfs diff=lfs merge=lfs -text
+public/models/office.glb filter=lfs diff=lfs merge=lfs -text
